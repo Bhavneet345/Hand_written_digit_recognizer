@@ -9,7 +9,7 @@ Hand written digit classification is CNN trained over very famous MNIST dataset 
 
 # Steps to run the application
 1. Download the ZIP file of the project
-2. After downloading,run the GUI.py file which will introduce with the Graphical user interface of the project where you can draw the digit and see the results..
+2. After downloading,run the GUI.py file which will introduce the user with the graphical user interface of the project where you can draw the digit and see the results..
 
 # PREVIEW IMAGES 
 ![pred1](https://user-images.githubusercontent.com/84433782/128631825-0ad21c00-bff4-4e9f-8be8-1d339ceb4049.png)  ![pred2](https://user-images.githubusercontent.com/84433782/128631841-313b691d-270e-44bd-bdd0-04123e11fd86.png)
