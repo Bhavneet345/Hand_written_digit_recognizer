@@ -15,9 +15,7 @@ Hand written digit classification is CNN trained over very famous MNIST dataset 
 ![output1](https://user-images.githubusercontent.com/84433782/129456199-5fe20b8c-7d0b-4e67-bb93-200cbd282b14.png)
 ![output2](https://user-images.githubusercontent.com/84433782/129456202-238a6d4a-e311-47c9-91ce-cf730447d38c.png)
 ![output3](https://user-images.githubusercontent.com/84433782/129456203-91191247-f250-45ca-a1b8-df1178b41efd.png)
-
-
-Note: In order to get better results try to draw the digit all over the canvas.
+![output4](https://user-images.githubusercontent.com/84433782/129457638-d53806af-e8fc-4335-8749-fd2f0041ce58.png)
 
 
 
